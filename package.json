@@ -30,8 +30,5 @@
     "type": "git",
     "url": "https://github.com/futomi/node-beacon-scanner.git"
   },
-  "readmeFilename": "README.md",
-  "dependencies": {
-    "@abandonware/noble": ">=1.9.2-5"
-  }
+  "readmeFilename": "README.md"
 }
